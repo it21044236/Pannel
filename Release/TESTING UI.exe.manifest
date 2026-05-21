@@ -271,14 +271,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TESTING UI.exe" size="191488">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TESTING UI.exe" size="196608">
       <assemblyIdentity name="TESTING UI" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>B4flk64UJBSRUtvO7JBboXkE95lxoFo2Rl7AHbrUpWI=</dsig:DigestValue>
+        <dsig:DigestValue>2sDBjD4yHElCZWNMGhsw9TreNU2TFYT6azzRPkvC9pA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
