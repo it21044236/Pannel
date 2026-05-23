@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="TESTING UI.exe.manifest" size="23142">
+    <dependentAssembly dependencyType="install" codebase="TESTING UI.exe.manifest" size="23143">
       <assemblyIdentity name="TESTING UI.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dQOo3bIBbB6895TFTTKgpUsW8Oi/4P7V+YtKAU/f0RM=</dsig:DigestValue>
+        <dsig:DigestValue>MJPBuOC1p2gkCvZFfPQ0WaZGanqDo7XFUk+yVTBxw7M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
